@@ -1,4 +1,4 @@
-# Flask QR COde Generator
+# Flask QR Code Generator
 
 Flask application for generate QR Code pointing an URL passing input
 
